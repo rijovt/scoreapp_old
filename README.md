@@ -27,7 +27,6 @@ Laravel development server started: http://127.0.0.1:8000
 
 You can access the app via URL generated.
 
-As initially there are no entries in the database, you can add it using the InputBox. After adding the Todos, you can sort it accordingly. The data will be automatically saved to the database as per the sorted order.
 
 
 ## Developed by Rijo Thomas
