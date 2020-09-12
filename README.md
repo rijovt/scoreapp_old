@@ -9,11 +9,11 @@ Please follow the steps below :
 
 - composer install
 
-- Save the .env.example file inside the todoapp folder as .env
+- Save the .env.example file inside the scoreapp folder as .env
 
 - Create a database and update the credentials as same in the .env file.
 
-- Run the following commands from the terminal todoapp directory :
+- Run the following commands from the terminal scoreapp directory :
 
     php artisan migrate
     
